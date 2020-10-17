@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jhelum\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jhelum\\.nuget\\packages"
+    ]
+  }
+}
